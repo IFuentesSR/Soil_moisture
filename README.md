@@ -23,6 +23,8 @@ An example of SHapley Additive exPlanations (SHAP) was also included to determin
 
 Additionally, a python file for writing rasters was also included.
 
+![alt-text-1]("shap0 (4).png" "title-1") ![alt-text-2](join.png "title-2")
+
 <p align="center">
   <img src="join.png" alt="heatmap" width="500">
 </p>
