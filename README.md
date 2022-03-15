@@ -12,19 +12,19 @@ Code associated with the publication entitled [Towards near real-time national-s
 The Scripts correspond to colab notebooks which require the use of Google Earth Engine (GEE), and they allow to get inputs for the modelling approach. Additionally, they contain code for generating and training deep learning models and functions for plotting and processing the data. 
 
 <p align="center">
-  <img src="combined.png" alt="time_series" width="500">
+  <img src="combined.png" alt="time_series" width="700">
 </p>
 
 An example of SHapley Additive exPlanations (SHAP) was also included to determine the importance of covariates and their relationship with model predictions. 
 
 <p align="center">
-  <img src="shap0 (4).png" alt="average" width="500">
+  <img src="shap0 (4).png" alt="average" width="700">
 </p>
 
 Additionally, a python file for writing rasters was also included.
 
 <p align="center">
-  <img src="join.png" alt="heatmap" width="500">
+  <img src="join.png" alt="heatmap" width="700">
 </p>
 
 ## How to cite this work?
