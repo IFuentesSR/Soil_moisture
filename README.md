@@ -19,8 +19,8 @@ An example of SHapley Additive exPlanations (SHAP) was also included to determin
 
 
 <p float="middle">
-  <img src="/shap0.png" width="500" />
-  <img src="/join.png" width="400" /> 
+  <img src="/shap0.png" width="400" />
+  <img src="/join.png" width="300" /> 
 </p>
 
 
