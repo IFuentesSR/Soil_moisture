@@ -18,13 +18,13 @@ The Scripts correspond to colab notebooks which require the use of Google Earth 
 An example of SHapley Additive exPlanations (SHAP) was also included to determine the importance of covariates and their relationship with model predictions. 
 
 <p align="center">
-  <img src="shap0 (4).png" alt="average" width="700">
+  <img src="shap0 (4).png" alt="average" width="500">
 </p>
 
 Additionally, a python file for writing rasters was also included.
 
 <p align="center">
-  <img src="join.png" alt="heatmap" width="700">
+  <img src="join.png" alt="heatmap" width="500">
 </p>
 
 ## How to cite this work?
