@@ -33,6 +33,7 @@ An example of SHapley Additive exPlanations (SHAP) was also included to determin
   title={Towards near real-time national-scale soil water content monitoring using data fusion as a downscaling alternative},
   author={Fuentes, Ignacio and Padarian, Jos{\'e} and Vervoort, R Willem},
   journal={Journal of Hydrology},
+  volume={609},
   pages = {127705},
   year={2022},
   publisher={Elsevier}
